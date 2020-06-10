@@ -9,8 +9,10 @@ import_tables:
   - luna_pinyin.sougou.city
   - luna_pinyin.sougou.computer
   - luna_pinyin.sougou.idiom
-  - luna_pinyin.qq
+  - luna_pinyin.sougou.program
+  - luna_pinyin.sougou.popular
 ...
 
 # 自定义词语
 何一鸣 he yi ming 100
+昇 sheng 100
