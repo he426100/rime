@@ -1,0 +1,343 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	369
+#@/user_id	213db354-46cb-46bd-94d7-042d0ddea57f
+a 	啊	c=3 d=1.59498 t=349
+a er 	阿爾	c=0 d=0.1 t=347
+a er ba si su mu 	阿爾巴斯蘇木	c=1 d=1 t=348
+a ke qiao ke bing tuan yi liu san tuan 	阿克乔克兵团一六三团	c=1 d=1 t=357
+ai jiao de gou bu yao ren 	爱叫的狗不咬人	c=1 d=1 t=368
+an 	按	c=1 d=1 t=176
+ba 	吧	c=1 d=1 t=196
+ba si 	巴斯	c=0 d=0.1 t=347
+bai se 	白色	c=1 d=1 t=85
+ban fa 	辦法	c=1 d=1.08187 t=168
+bao 	報	c=1 d=1 t=153
+bei 	被	c=1 d=1 t=262
+bei jing se 	背景色	c=1 d=1 t=117
+ben shen 	本身	c=1 d=1 t=88
+bian min 	便民	c=6 d=5.59975 t=247
+biao shi 	表示	c=1 d=1 t=327
+biao xian 	表現	c=1 d=1 t=195
+biao zhun 	標準	c=2 d=1.79032 t=353
+biao zhun ci ku 	標準詞庫	c=1 d=1 t=354
+bu 	不	c=0 d=0.1 t=150
+bu chu 	不出	c=1 d=1 t=31
+bu dui zheng 	不對症	c=1 d=1 t=151
+bu hao 	不好	c=0 d=0.1 t=44
+bu hao shi 	不好使	c=1 d=1 t=45
+bu kai 	不開	c=0 d=0.1 t=69
+bu le 	不了	c=1 d=1 t=101
+bu liao 	不了	c=0 d=0.1 t=132
+bu ran 	不燃	c=1 d=1 t=275
+bu ru 	不如	c=1 d=1 t=306
+bu shi 	不是	c=1 d=1 t=139
+bu xian shi 	不顯示	c=1 d=1 t=325
+bu zhi dao 	不知道	c=1 d=1 t=199
+bu zuo 	不做	c=2 d=1.96561 t=143
+cai 	菜	c=0 d=0.1 t=22
+ceng 	層	c=1 d=1 t=363
+chang 	廠	c=1 d=1 t=259
+chao zhi 	超值	c=1 d=1 t=208
+cheng yu 	成語	c=1 d=1 t=366
+chu 	出	c=0 d=0.1 t=25
+chu 	廚	c=0 d=0.1 t=18
+chu lai 	出來	c=1 d=1 t=295
+chu li 	處理	c=1 d=1 t=246
+chuan tong 	傳統	c=1 d=1 t=237
+ci hui 	詞彙	c=2 d=1.9802 t=338
+ci ku 	詞庫	c=3 d=3.01719 t=353
+cu xiao 	促銷	c=3 d=2.94575 t=324
+da 	打	c=1 d=1 t=30
+da bu 	打不	c=0 d=0.1 t=25
+da bu chu zi 	打不出字	c=1 d=1 t=26
+da chuang 	大牀	c=1 d=1 t=61
+da sha 	大廈	c=0 d=0.1 t=23
+da zi 	打字	c=2 d=1.99304 t=347
+dan 	單	c=1 d=1 t=265
+dang chu 	當初	c=1 d=1 t=261
+dao 	到	c=1 d=0.914647 t=329
+dao di 	到底	c=1 d=1 t=255
+dao hang 	導航	c=0 d=0.1 t=74
+dao hang lan 	導航藍	c=1 d=1 t=75
+dao ru 	導入	c=3 d=2.85114 t=351
+dao shi 	倒是	c=0 d=0.1 t=279
+de 	的	c=9 d=5.17662 t=345
+di dao 	地道	c=1 d=1 t=22
+dian 	點	c=1 d=1.02725 t=329
+dian bu kai 	點不開	c=1 d=1 t=70
+dian qi 	電器	c=1 d=1 t=302
+dian shi 	電視	c=1 d=1 t=296
+dong xi 	東西	c=0 d=0.128794 t=290
+dou 	都	c=2 d=1.37771 t=163
+dou bu gan 	都不敢	c=0 d=0.1 t=278
+dou bu gan xi 	都不敢洗	c=1 d=1 t=279
+dou bu hao 	都不好	c=0 d=0.1 t=39
+dou hai shi 	都還是	c=1 d=1 t=164
+dou mei 	都沒	c=0 d=0.1 t=79
+dou shi 	都是	c=2 d=1.85214 t=189
+du 	度	c=1 d=1 t=289
+du shu 	度數	c=1 d=1 t=299
+duan tui 	斷腿	c=1 d=1 t=226
+dui zheng 	對症	c=0 d=0.1 t=150
+duo jiu 	多久	c=1 d=1 t=66
+duo shao 	多少	c=1 d=1 t=257
+en 	恩	c=1 d=1 t=67
+er lu 	二路	c=0 d=0.1 t=359
+fa 	發	c=1 d=1 t=287
+fa re 	發熱	c=1 d=1 t=286
+fang an 	方案	c=1 d=1 t=156
+fang huo 	防火	c=1 d=1 t=298
+fu li 	福利	c=2 d=1.99501 t=210
+fu wu yuan 	服務員	c=1 d=1 t=145
+gan ga 	尷尬	c=0 d=0.1 t=35
+gao 	搞	c=0 d=0.1 t=132
+gao bu liao 	搞不了	c=1 d=1 t=133
+gao cheng 	搞成	c=1 d=1 t=84
+gao de 	搞得	c=2 d=1.93707 t=119
+gao du 	高度	c=3 d=2.98012 t=54
+gen 	跟	c=1 d=1.08869 t=96
+gen shang hu 	跟商戶	c=1 d=1 t=73
+gong zuo 	工作	c=1 d=1 t=105
+guang gao 	廣告	c=1 d=1 t=11
+guang zhou 	廣州	c=1 d=1 t=131
+guo 	郭	c=1 d=1 t=222
+hai 	海	c=1 d=1 t=223
+hai 	還	c=2 d=1.74826 t=204
+hai shi 	還是	c=2 d=1.74226 t=180
+hai shi you 	還是有	c=1 d=1 t=173
+hai wang 	海王	c=0 d=0.1 t=224
+hang ye 	行業	c=1 d=1 t=258
+hao 	號	c=1 d=1 t=361
+hao ba 	好吧	c=1 d=1 t=93
+hao xiang 	好像	c=1 d=1 t=200
+he 	和	c=0 d=0.1 t=357
+he yi ming 	何一鳴	c=1 d=1 t=359
+he yi ming 	和一名	c=1 d=1 t=358
+heng fu 	橫幅	c=1 d=1 t=69
+hou ta 	後他	c=1 d=1 t=231
+hou tai 	後臺	c=2 d=1.90484 t=232
+hu nan 	湖南	c=0 d=0.1 t=22
+hu nan cai 	湖南菜	c=1 d=1 t=23
+huang 	皇	c=1 d=1 t=224
+huo dong 	活動	c=1 d=1 t=197
+ji qi 	機器	c=1 d=1 t=284
+ji xu 	繼續	c=2 d=1.99501 t=245
+ji yin te gong 	基因特工	c=1 d=1 t=365
+jia 	價	c=0 d=0.1 t=20
+jia 	加	c=1 d=1 t=118
+jia dian 	家電	c=1 d=1 t=297
+jian 	鍵	c=1 d=1 t=5
+jian rong 	兼容	c=0 d=0.1 t=96
+jian rong me 	兼容麼	c=1 d=1 t=97
+jian she 	建設	c=0 d=0.1 t=359
+jian zhi 	兼職	c=1 d=1 t=140
+jiang men 	江門	c=1 d=1 t=33
+jiang men shi 	江門市	c=0 d=0.1 t=359
+jiang men shi peng jiang qu jian she er lu 	江門市蓬江區建設二路	c=1 d=1 t=360
+jiao dian 	焦點	c=1 d=1 t=191
+jie jue 	解決	c=1 d=1 t=100
+jie kou 	接口	c=2 d=1.88692 t=243
+jie zhi 	截止	c=0 d=0.1 t=329
+jie zhi dao 	截止到	c=1 d=1 t=330
+jin tian 	今天	c=1 d=1 t=104
+jing bao 	警報	c=1 d=1 t=182
+jing dong 	京東	c=2 d=1.81465 t=304
+jing gao 	警告	c=2 d=1.80389 t=165
+jiu 	就	c=1 d=1.03906 t=268
+jiu shi 	就是	c=1 d=1 t=162
+jiu zhe ge 	就這個	c=1 d=1 t=81
+kai fa zhong 	開發中	c=1 d=1 t=198
+ke yi 	可以	c=2 d=1.86071 t=315
+ku cun 	庫存	c=3 d=2.95556 t=190
+kuai 	快	c=0 d=0.1 t=266
+kuan du 	寬度	c=1 d=1 t=56
+lai ge 	來個	c=1 d=1 t=308
+lan 	欄	c=1 d=1 t=76
+lan 	藍	c=0 d=0.1 t=74
+le 	了	c=3 d=1.59901 t=268
+le yi bu fen 	了一部分	c=1 d=1 t=128
+li 	裏	c=0 d=0.1 t=249
+li mian 	裏面	c=0 d=0.1 t=110
+lian jie 	鏈接	c=1 d=1 t=309
+lie 	烈	c=0 d=0.1 t=224
+lie biao 	列表	c=2 d=1.9802 t=218
+lie hai wang 	烈海王	c=1 d=1 t=225
+liu kong 	留空	c=1 d=1 t=321
+lu wei bing 	盧偉冰	c=1 d=1 t=186
+lu wei bing 	盧韋冰	c=1 d=1 t=185
+lun bo 	輪播	c=0 d=0.1 t=91
+lun bo tu 	輪播圖	c=1 d=1 t=92
+ma 	嗎	c=1 d=1 t=343
+mai de 	買的	c=0 d=0.1 t=201
+me 	麼	c=3 d=2.41899 t=141
+mei fa 	沒法	c=2 d=1.94176 t=95
+mei sha 	沒啥	c=1 d=1 t=193
+mei wan 	每晚	c=1 d=1 t=328
+mei yong 	沒用	c=1 d=1 t=169
+mo ren 	默認	c=1 d=1 t=8
+mou chang 	某長	c=1 d=1 t=254
+na 	那	c=1 d=1 t=138
+na bian 	那邊	c=1 d=1 t=132
+na ge 	那個	c=3 d=1.90397 t=311
+na ge jing gao 	那個警告	c=1 d=1 t=166
+na zhong 	那種	c=0 d=0.1 t=290
+na zhong dong xi 	那種東西	c=1 d=1 t=291
+nao zi li 	腦子裏	c=1 d=1 t=203
+ne 	呢	c=3 d=1.87763 t=292
+neng 	能	c=3 d=2.76033 t=346
+neng da zi 	能打字	c=1 d=1 t=2
+neng ting 	能聽	c=1 d=1 t=344
+ni 	你	c=0 d=0.249187 t=289
+ni dao shi 	你倒是	c=1 d=1 t=280
+ni hao 	你好	c=1 d=1 t=4
+ni que ding 	你確定	c=1 d=1 t=290
+ni xian 	你先	c=1 d=1 t=307
+ni zhe ge 	你這個	c=1 d=1 t=167
+ni zui 	你最	c=0 d=0.1 t=249
+ni zui li 	你最裏	c=1 d=1 t=250
+nian de 	年的	c=0 d=0.1 t=312
+nian de shi 	年的事	c=1 d=1 t=313
+pei zhi 	配置	c=1 d=1 t=242
+peng jiang qu 	蓬江區	c=0 d=0.1 t=359
+pin yin 	拼音	c=1 d=1 t=364
+qi ta 	其他	c=0 d=0.1 t=79
+qi ta dou mei wen ti 	其他都沒問題	c=1 d=1 t=80
+qiang 	槍	c=1 d=1 t=271
+qing 	清	c=1 d=1 t=183
+qu xiao 	取消	c=1 d=1 t=266
+que ding 	確定	c=0 d=0.1 t=289
+rang ni 	讓你	c=0 d=0.1 t=14
+re men 	熱門	c=1 d=1 t=333
+rong yao 	榮耀	c=1 d=1 t=273
+ru 	如	c=1 d=1 t=326
+ru guo 	如果	c=1 d=1 t=130
+run 	潤	c=1 d=1 t=16
+sha fa 	沙發	c=1 d=1 t=63
+shang hu 	商戶	c=3 d=2.48021 t=217
+shang mian 	上面	c=1 d=1 t=177
+she zhi 	設置	c=3 d=2.36412 t=236
+she zu 	涉足	c=0 d=0.1 t=255
+she zu le 	涉足了	c=1 d=1 t=256
+shen gao 	身高	c=1 d=1 t=148
+shen me 	什麼	c=1 d=1 t=283
+sheng 	昇	c=1 d=1 t=35
+sheng chan 	生產	c=1 d=1 t=294
+shi 	事	c=1 d=0.688605 t=312
+shi 	使	c=0 d=0.197531 t=44
+shi 	是	c=8 d=3.38681 t=312
+shi chui 	實鎚	c=1 d=1 t=264
+shi hou 	時候	c=0 d=0.1 t=201
+shi jian 	時間	c=1 d=1 t=320
+shi lai shi qu 	試來試去	c=1 d=1 t=98
+shi shi 	試試	c=1 d=1 t=369
+shi yong 	使用	c=1 d=1 t=161
+shou ye 	首頁	c=2 d=1.93707 t=72
+shu ru fa 	輸入法	c=2 d=0.438249 t=368
+shua dan 	刷單	c=1 d=1 t=305
+sou gou 	搜狗	c=4 d=3.01241 t=353
+su mu 	蘇木	c=0 d=0.1 t=347
+su yu 	俗語	c=1 d=1 t=367
+tai 	太	c=0 d=0.1 t=35
+tai can le 	太慘了	c=1 d=1 t=60
+tai duo 	太多	c=0 d=0.1 t=11
+tai duo le 	太多了	c=1 d=1 t=12
+tai gan ga 	太尷尬	c=1 d=1.0802 t=40
+tai gan ga le 	太尷尬了	c=1 d=1 t=41
+ti shi 	提示	c=1 d=1 t=175
+tian di liang xin 	天地良心	c=0 d=0.1 t=20
+tian di liang xin jia 	天地良心價	c=1 d=1 t=21
+tong yi ge 	同一個	c=1 d=1 t=270
+tu 	圖	c=0 d=0.1 t=91
+tu biao 	圖標	c=4 d=3.52174 t=125
+wa 	哇	c=1 d=1 t=64
+wa wa 	哇哇	c=1 d=1 t=192
+wan 	玩	c=1 d=1 t=48
+wan cheng 	完成	c=1 d=1 t=57
+wan da 	萬達	c=1 d=1 t=137
+wan yi er 	玩意兒	c=0 d=0.1 t=37
+wan yuan 	萬源	c=0 d=0.1 t=23
+wan yuan da sha 	萬源大廈	c=2 d=1.18452 t=362
+wang ji 	忘記	c=0 d=0.1 t=268
+wang ji le 	忘記了	c=1 d=1 t=269
+wang le 	忘了	c=1 d=1 t=201
+wei sha 	爲啥	c=3 d=1.96247 t=272
+wei xin 	微信	c=1 d=1 t=317
+wen ti 	問題	c=1 d=1.16502 t=122
+wo 	我	c=0 d=0.164404 t=201
+wo de 	我的	c=1 d=1 t=355
+wo dou 	我都	c=0 d=0.1 t=77
+wo dou yong de zi ti 	我都用的字體	c=1 d=1 t=78
+wo mai de shi hou 	我買的時候	c=1 d=1 t=202
+wo shi 	我是	c=1 d=1 t=152
+wo shi shi 	我試試	c=1 d=1 t=114
+wu 	無	c=1 d=1 t=323
+xi 	洗	c=1 d=1.09851 t=281
+xian zai 	現在	c=1 d=1 t=120
+xiang cai 	湘菜	c=1 d=1 t=20
+xiang zhe 	想着	c=1 d=1 t=205
+xiao lang hao 	小狼毫	c=5 d=1.62941 t=368
+xiao lang hao shu ru fa 	小狼毫輸入法	c=1 d=1 t=369
+xiao mi 	小米	c=4 d=3.59229 t=310
+xiao wan 	小碗	c=0 d=0.1 t=18
+xiao wan chu 	小碗廚	c=2 d=1.93707 t=32
+xie 	些	c=1 d=1 t=28
+ya 	呀	c=0 d=0.1 t=14
+ya rang ni 	呀讓你	c=1 d=1 t=15
+yang 	養	c=2 d=1.90484 t=34
+yao qiu 	要求	c=1 d=1 t=147
+ye 	也	c=1 d=1 t=135
+ye bei 	也被	c=1 d=1 t=126
+ye bu 	也不	c=0 d=0.1 t=159
+ye bu ying xiang 	也不影響	c=1 d=1 t=160
+ye mian 	頁面	c=7 d=5.94807 t=248
+ye shi 	也是	c=1 d=1 t=314
+yi bu fen 	一部分	c=0 d=0.1 t=127
+yi chang 	異常	c=1 d=1 t=194
+yi dian 	一點	c=1 d=1.09802 t=43
+yi dian dou bu hao shi 	一點都不好使	c=1 d=1 t=40
+yi ming 	一名	c=0 d=0.1 t=357
+yi neng 	藝能	c=1 d=1 t=238
+yi qie 	一切	c=1 d=1 t=188
+ying wen 	英文	c=2 d=1.97045 t=9
+ying xiang 	影響	c=0 d=0.1 t=159
+yong de 	用的	c=0 d=0.1 t=77
+you 	有	c=2 d=2.08153 t=181
+you hua 	優化	c=2 d=1.97531 t=216
+you sha 	有啥	c=0 d=0.1 t=128
+you sha ban fa 	有啥辦法	c=1 d=1 t=129
+you wen ti 	有問題	c=1 d=1 t=89
+yuan 	圓	c=1 d=1 t=127
+yuan quan 	圓圈	c=1 d=1.09753 t=115
+yuan quan li mian 	圓圈裏面	c=1 d=1 t=111
+ze 	則	c=1 d=1 t=322
+zen me yang 	怎麼樣	c=1 d=1 t=107
+zeng jia 	增加	c=2 d=1.97045 t=239
+zhao zhe 	照着	c=0 d=0.1 t=170
+zhao zhe zuo 	照着做	c=1 d=1 t=171
+zhe 	這	c=1 d=1.11255 t=154
+zhe bian 	這邊	c=1 d=1 t=134
+zhe dong xi 	這東西	c=1 d=1 t=42
+zhe ge 	這個	c=4 d=3.58009 t=166
+zhe li 	這裏	c=2 d=1.93707 t=90
+zhe liang ge 	這兩個	c=1 d=1 t=155
+zhe me 	這麼	c=1 d=0.43454 t=266
+zhe me kuai 	這麼快	c=1 d=1 t=267
+zhe shi 	這事	c=1 d=1 t=276
+zhe wan yi er 	這玩意兒	c=2 d=1.99501 t=39
+zhe zhong 	這種	c=1 d=1 t=110
+zhi bu zhi dao 	知不知道	c=1 d=1 t=249
+zhi hou 	之後	c=1 d=1 t=163
+zhuang 	裝	c=1 d=1 t=316
+zi 	字	c=1 d=1.09802 t=29
+zi ding yi 	自定義	c=1 d=1 t=356
+zi ji 	自己	c=1 d=1 t=278
+zi ti 	字體	c=1 d=1.17323 t=124
+zi ti tu biao 	字體圖標	c=1 d=1 t=113
+zu ran 	阻燃	c=1 d=1 t=301
+zui duo 	最多	c=1 d=1 t=55
+zui li 	嘴裏	c=1 d=1 t=252
+zuo 	做	c=0 d=0.1 t=170
+zuo le 	做了	c=1 d=1 t=179

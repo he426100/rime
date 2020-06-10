@@ -1,0 +1,16 @@
+---
+name: luna_pinyin.my
+version: "2020.06.10"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.sougou
+  - luna_pinyin.sougou.city
+  - luna_pinyin.sougou.computer
+  - luna_pinyin.sougou.idiom
+  - luna_pinyin.qq
+...
+
+# 自定义词语
+何一鸣 he yi ming 100
